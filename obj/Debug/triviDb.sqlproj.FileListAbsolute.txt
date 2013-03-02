@@ -1,0 +1,5 @@
+C:\Users\Guy\Documents\GitHub\triviDb\bin\Debug\triviDb.dacpac
+C:\Users\Guy\Documents\GitHub\triviDb\bin\Debug\triviDb.dll
+C:\Users\Guy\Documents\GitHub\triviDb\bin\Debug\triviDb.pdb
+C:\Users\Guy\Documents\GitHub\triviDb\obj\Debug\triviDb.dll
+C:\Users\Guy\Documents\GitHub\triviDb\obj\Debug\triviDb.pdb

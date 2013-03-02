@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Operations Version="1.0" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+  <Operation Name="Rename Refactor" Key="7cb9df75-5601-4219-96a4-460268e0b353" ChangeDateTime="02/21/2013 21:40:28">
+    <Property Name="ElementName" Value="[dbo].[Questions].[Question]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Questions]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="QuestionP1" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="1af4bbb5-c2fd-4f59-a99f-e8959197cb1c" ChangeDateTime="02/21/2013 21:40:32">
+    <Property Name="ElementName" Value="[dbo].[Questions].[s]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Questions]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="QuestionP2" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="b74041fd-a302-44e7-b14f-c9d37f282736" ChangeDateTime="02/21/2013 21:40:52">
+    <Property Name="ElementName" Value="[dbo].[Questions].[QuestionP2]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Questions]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="QuestionP3" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="a24bfa78-606e-4afe-956e-8d85078ca4fa" ChangeDateTime="02/21/2013 21:41:18">
+    <Property Name="ElementName" Value="[dbo].[Questions].[difficulty level]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Questions]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="Difficulty" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="a0d9ddbe-88da-4021-a27c-3573f7978d16" ChangeDateTime="02/21/2013 21:41:26">
+    <Property Name="ElementName" Value="[dbo].[Questions].[S]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Questions]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="Failed" />
+  </Operation>
+</Operations>
